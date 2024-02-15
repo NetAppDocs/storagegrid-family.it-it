@@ -1,0 +1,89 @@
+---
+permalink: intro-family.html 
+keywords: storagegrid 
+summary: 'NetApp StorageGRID è una suite di storage a oggetti software-defined che supporta un"ampia gamma di casi di utilizzo in ambienti multicloud pubblici, privati e ibridi. StorageGRID offre il supporto nativo per l"API Amazon S3 e offre innovazioni leader del settore come la gestione automatica del ciclo di vita per memorizzare, proteggere, proteggere e conservare i dati non strutturati in modo conveniente per lunghi periodi.' 
+---
+= Scopri di più su StorageGRID
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp StorageGRID è una suite di storage a oggetti software-defined che supporta un'ampia gamma di casi di utilizzo in ambienti multicloud pubblici, privati e ibridi. StorageGRID offre il supporto nativo per l'API Amazon S3 e offre innovazioni leader del settore come la gestione automatica del ciclo di vita per memorizzare, proteggere, proteggere e conservare i dati non strutturati in modo conveniente per lunghi periodi.
+
+StorageGRID offre uno storage sicuro e durevole per i dati non strutturati su larga scala. Le policy integrate di gestione del ciclo di vita basate sui metadati ottimizzano la posizione dei dati durante l'intero ciclo di vita. I contenuti vengono posizionati nella giusta posizione, al momento giusto e nel giusto Tier di storage per ridurre i costi.
+
+StorageGRID è composto da nodi eterogenei, ridondanti e distribuiti geograficamente, che possono essere integrati con le applicazioni client esistenti e di prossima generazione.
+
+
+
+== Vantaggi di StorageGRID
+
+I vantaggi del sistema StorageGRID includono:
+
+* Un repository di dati distribuito geograficamente per dati non strutturati, estremamente scalabile e facile da utilizzare.
+* Supporto del protocollo S3 (Simple Storage Service) di Amazon Web Services
+* Cloud ibrido abilitato. ILM (Information Lifecycle Management) basato su policy archivia gli oggetti nei cloud pubblici, tra cui Amazon Web Services (AWS) e Microsoft Azure. I servizi della piattaforma StorageGRID consentono la replica dei contenuti, la notifica degli eventi e la ricerca dei metadati degli oggetti archiviati nei cloud pubblici.
+* Protezione flessibile dei dati per garantire durata e disponibilità. I dati possono essere protetti mediante replica e erasure coding a più livelli. La verifica dei dati a riposo e a bordo garantisce l'integrità per una conservazione a lungo termine.
+* Gestione dinamica del ciclo di vita dei dati per aiutare a gestire i costi dello storage. È possibile creare regole ILM per gestire il ciclo di vita dei dati a livello di oggetto e personalizzare la località dei dati, la durata, le performance, i costi e i tempi di conservazione.
+* Elevata disponibilità dello storage dei dati e di alcune funzioni di gestione, con bilanciamento del carico integrato per ottimizzare il carico dei dati tra le risorse StorageGRID.
+* Supporto di più account tenant di storage per separare gli oggetti memorizzati nel sistema da diverse entità.
+* Numerosi strumenti per il monitoraggio dello stato di salute del sistema StorageGRID, tra cui un sistema di avviso completo, una dashboard grafica e stati dettagliati per tutti i nodi e i siti.
+* Supporto per l'implementazione basata su software o hardware. È possibile implementare StorageGRID su uno dei seguenti sistemi:
++
+** Macchine virtuali in esecuzione in VMware.
+** Motori container su host Linux.
+** Appliance progettate da StorageGRID.
++
+*** Le appliance di storage forniscono storage a oggetti.
+*** Le appliance di servizi offrono servizi di gestione della griglia e bilanciamento del carico.
+
+
+
+
+* Conforme ai requisiti di storage pertinenti delle seguenti normative:
++
+** Securities and Exchange Commission (SEC) in 17 cfr § 240.17a-4(f), che regola i membri di Exchange, gli intermediari o i rivenditori.
+** Financial Industry Regulatory Authority (FINRA) Rule 4511(c), che si difona ai requisiti di formato e supporti della norma SEC 17a-4(f).
+** Commodity Futures Trading Commission (CFTC) nel regolamento 17 cfr § 1.31(c)-(d), che regola il trading dei futures sulle commodity.
+
+
+* Operazioni di upgrade e manutenzione senza interruzioni. Mantenere l'accesso ai contenuti durante le procedure di aggiornamento, espansione, decommissionamento e manutenzione.
+* Gestione delle identità federate. Si integra con Active Directory, OpenLDAP o Oracle Directory Service per l'autenticazione degli utenti. Supporta SSO (Single Sign-on) utilizzando lo standard SAML 2.0 (Security Assertion Markup Language 2.0) per lo scambio di dati di autenticazione e autorizzazione tra StorageGRID e ad FS (Active Directory Federation Services).
+
+
+
+
+== Software StorageGRID
+
+* https://docs.netapp.com/us-en/storagegrid-118/["Documentazione di StorageGRID 11,8"^]
+* https://docs.netapp.com/us-en/storagegrid-117/["Documentazione di StorageGRID 11,7"^]
+* https://docs.netapp.com/us-en/storagegrid-116/["Documentazione di StorageGRID 11,6"^]
+* https://docs.netapp.com/us-en/storagegrid-115/["Documentazione di StorageGRID 11,5"^]
+* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023["Documentazione di StorageGRID 11,4"^]
+
+
+
+
+== Appliance StorageGRID
+
+* https://docs.netapp.com/us-en/storagegrid-appliances/["Appliance StorageGRID"^]
+
+
+
+
+== Come abilitare StorageGRID nel tuo ambiente
+
+Passare a. https://docs.netapp.com/us-en/storagegrid-enable/index.html["Come abilitare StorageGRID nel tuo ambiente"^] Per scoprire come testare e abilitare le applicazioni nel tuo ambiente StorageGRID.
+
+Il sito di documentazione *storagegrid-enable* fornisce esempi e libri di cucina che ampliano la documentazione del prodotto in questo sito e descrive alcuni passaggi successivi per la valutazione e l'integrazione con StorageGRID.
+
+Alcune delle informazioni incluse:
+
+* Elenco delle soluzioni di terze parti validate per le release StorageGRID precedenti e correnti.
+* Guide alle funzionalità del prodotto. Ad esempio, queste guide forniscono tutte le informazioni necessarie per creare pool di storage cloud.
+* Guide agli strumenti e alle applicazioni.
+* Esempi di API per l'utilizzo di funzionalità StorageGRID come la crittografia S3 e il blocco oggetti S3.
+
