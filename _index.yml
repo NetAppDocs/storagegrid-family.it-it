@@ -32,7 +32,7 @@ product-family:
     summary: Informazioni su StorageGRID e consultare la documentazione relativa alle
       versioni precedenti di StorageGRID.
     tags: all, get_started, storagegrid, appliances, enable
-  - title: Documentazione StorageGRID
+  - title: Software StorageGRID
     icon: "./media/config_line.png"
     url: "../storagegrid/index.html"
     summary: Installare, configurare e mantenere la versione più recente del software
