@@ -24,9 +24,6 @@
   <block id="b084a731794587a11af81afbc77326a5" category="list-text">Operazioni di upgrade e manutenzione senza interruzioni. Mantenere l'accesso ai contenuti durante le procedure di aggiornamento, espansione, decommissionamento e manutenzione.</block>
   <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">Gestione delle identità federate. Si integra con Active Directory, OpenLDAP o Oracle Directory Service per l'autenticazione degli utenti. Supporta SSO (Single Sign-on) utilizzando lo standard SAML 2.0 (Security Assertion Markup Language 2.0) per lo scambio di dati di autenticazione e autorizzazione tra StorageGRID e ad FS (Active Directory Federation Services).</block>
   <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">Appliance StorageGRID</block>
-  <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">Come abilitare StorageGRID nel tuo ambiente</block>
-  <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">Passare a.<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> Per scoprire come testare e abilitare le applicazioni nel tuo ambiente StorageGRID.</block>
-  <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">Il sito di documentazione *storagegrid-enable* fornisce esempi e libri di cucina che ampliano la documentazione del prodotto in questo sito e descrive alcuni passaggi successivi per la valutazione e l'integrazione con StorageGRID.</block>
   <block id="184be814f5401398fdf0f1ce3a702551" category="paragraph">Alcune delle informazioni incluse:</block>
   <block id="524a8f1f430dca0d85bebbcd3c376862" category="list-text">Elenco delle soluzioni di terze parti validate per le release StorageGRID precedenti e correnti.</block>
   <block id="8dfc12a5cc6be10182743183e843c496" category="list-text">Guide alle funzionalità del prodotto. Ad esempio, queste guide forniscono tutte le informazioni necessarie per creare pool di storage cloud.</block>
@@ -39,7 +36,6 @@
   <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">Installazione e manutenzione degli apparecchi</block>
   <block id="70f6d24bd76769700db7148daa023203" category="sidebar">Integrare e abilitare</block>
   <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">Installazione e manutenzione delle apparecchiature StorageGRID.</block>
-  <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">Abilitare StorageGRID</block>
   <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">Testa, integra e abilita StorageGRID.</block>
   <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">Documentazione dei prodotti StorageGRID</block>
   <block id="2903b0229e2eabe7c06f0db799dc3424" category="paragraph">I vantaggi del sistema StorageGRID includono:</block>
@@ -48,4 +44,7 @@
   <block id="6ba5a3e836a472999763351a7cad7f18" category="sidebar">Informazioni su StorageGRID e consultare la documentazione relativa alle versioni precedenti di StorageGRID.</block>
   <block id="e9f9bf9315d711c436dc24b43b0201ea" category="sidebar">Installare, configurare e mantenere la versione più recente del software StorageGRID.</block>
   <block id="2d4f4568ad652ff08727bc044f1373cc" category="sidebar">Software StorageGRID</block>
+  <block id="4acae57d3119f0b81d2bfd14c9585f13" category="section-title">Soluzioni e risorse StorageGRID</block>
+  <block id="7a4f669ff4b9f9df5860c2049386e61b" category="paragraph">Vai a<block ref="f382e11c205630073ea43ce3c4862094" category="inline-link-rx"></block> per scoprire come testare e abilitare le applicazioni nel tuo ambiente StorageGRID .</block>
+  <block id="ab1a62ba7061547a3e40c2c2e68d2227" category="paragraph">* Soluzioni e risorse StorageGRID * fornisce esempi e manuali che ampliano la documentazione del prodotto presente in questo sito e descrivono alcuni passaggi successivi nella valutazione e nell'integrazione con StorageGRID.</block>
 </blocks>

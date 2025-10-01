@@ -43,7 +43,7 @@ product-family:
     url: "../storagegrid-appliances/index.html"
     summary: Installazione e manutenzione delle apparecchiature StorageGRID.
     tags: all, appliances
-  - title: Abilitare StorageGRID
+  - title: Soluzioni e risorse StorageGRID
     icon: "./media/synergy.png"
     url: "../storagegrid-enable/index.html"
     summary: Testa, integra e abilita StorageGRID.
